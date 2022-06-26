@@ -1,0 +1,8 @@
+**/*.exe
+**/*.out
+**/*.bin
+**/.cph
+**/.vscode
+**/*.bak
+practice-workspace/*.cpp
+!practice-workspace/test.cpp
