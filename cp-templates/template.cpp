@@ -1,8 +1,8 @@
 /**
- * “Sometimes life is like this dark tunnel. 
- *  You can't always see the light at the end of the tunnel, 
- *  but if you just keep moving... 
- *  you will come to a better place.” - Uncle Iroh, ATLA
+ * “Go ahead and live with your head held high. No matter how devastated 
+ *  you may be by your own weakness or uselessness, set your heart ablaze. 
+ *  Grit your teeth and look straight ahead. Even if you stop and crouch down, 
+ *  time won't wait for you or snuggle you and grieve along with you.” - Kyojuro Renoku
  */
 
 #include <bits/stdc++.h>
