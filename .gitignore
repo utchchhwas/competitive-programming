@@ -4,5 +4,6 @@
 **/.cph
 **/.vscode
 **/*.bak
+**/__pycache__
 practice-workspace/*.cpp
 !practice-workspace/test.cpp

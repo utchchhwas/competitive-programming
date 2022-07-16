@@ -78,7 +78,7 @@ int main() {
 		solve();
 		// cout << endl;
 	}
-	cout << "All OK!" << endl;
+	// cout << "All OK!" << endl;
 
 	return 0;
 }
